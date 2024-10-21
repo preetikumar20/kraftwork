@@ -7,3 +7,5 @@ Based on thses observations, it seems that the acceptance of bar coupons is high
 
 Based on independent observation, it is clear that the drivers who visit coffee house more frequently and also moving in the same direction will accept the coffee house coupon. So the direction is also a factor when considering the acceptance of the coupon. 
 
+## Link for the assignment file
+
